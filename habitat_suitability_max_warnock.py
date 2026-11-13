@@ -10,21 +10,21 @@
 # <div style="flex: 2;">
 # 
 # <p>
-# The Great Basin Bristlecone Pine (<i>Pinus longaeva</i>) is known for being one of the longest living tree species on Earth. These trees live in harsh conditions at high elevation (8,000 to 12,000 ft) in Nevada, California, and Utah. They are incredibly slow growing, and some years, they do not even add rings to their trunks. One tree in Great Basin National Park has an estimated age of 4,700 to 5,200 years old (<a href="https://www.nps.gov/grba/planyourvisit/identifying-bristlecone-pines.htm">National Park Service</a>).
+# The Great Basin Bristlecone Pine (<i>Pinus longaeva</i>) is known for being one of the longest living tree species on Earth. These trees live in harsh conditions at high elevation (about 7,200 to 12,000 ft across their range, and mostly above 8,000 ft in Nevada) in Nevada, California, and Utah (<a href="https://research.fs.usda.gov/feis/species-reviews/pinlon">US Forest Service</a>). They are incredibly slow growing, and some years, they do not even add rings to their trunks. One tree in Great Basin National Park, known as Prometheus, was estimated to be 4,700 to 5,200 years old when it was cut down in 1964 (<a href="https://www.nps.gov/grba/planyourvisit/identifying-bristlecone-pines.htm">National Park Service</a>).
 # </p>
 # 
 # <p>
-# Other varieties of Bristlecone Pines include the Rocky Mountain Bristlecone Pine and Foxtail Pines, but they do not live nearly as long as Great Basin Bristlecone Pines (<a href="https://www.nps.gov/grba/planyourvisit/identifying-bristlecone-pines.htm">National Park Service</a>).
+# Close relatives include the Rocky Mountain Bristlecone Pine (<i>Pinus aristata</i>) and the Foxtail Pine (<i>Pinus balfouriana</i>), which are separate species and do not live nearly as long as Great Basin Bristlecone Pines (<a href="https://www.nps.gov/grba/planyourvisit/identifying-bristlecone-pines.htm">National Park Service</a>).
 # </p>
 # 
 # <h3>Bristlecone Pine Habitat</h3>
 # 
 # <p>
-# The Great Basin Bristlecone Pine occurs commonly in thin, rocky substrates, usually derived from limestone and dolomite. These soils are alkaline, high in calcium and magnesium, and low in phosphorus, meaning the pH values of these soils are generally above 7 (basic), according to the <a href="https://research.fs.usda.gov/feis/species-reviews/pinlon">United States Geological Survey (USGS)</a>. The climate in these locations is generally very cold in winter and dry during the summer. Mean precipitation in these areas is about 12 inches per year. The annual average maximum temperature is around 60°F, and average minimum temperatures are about 18°F (<a href="https://research.fs.usda.gov/feis/species-reviews/pinlon">USGS</a>).
+# The Great Basin Bristlecone Pine occurs commonly in thin, rocky substrates, usually derived from limestone and dolomite. These soils are alkaline, high in calcium and magnesium, and low in phosphorus, meaning the pH values of these soils are generally above 7 (basic), according to the <a href="https://research.fs.usda.gov/feis/species-reviews/pinlon">US Forest Service's Fire Effects Information System (FEIS)</a>. The climate in these locations is generally very cold in winter and dry during the summer. Mean precipitation is about 12 inches per year in the White Mountains of California, and about twice that in the Snake Range of Nevada. The annual average maximum temperature is around 60°F, and average minimum temperatures are about 18°F (<a href="https://research.fs.usda.gov/feis/species-reviews/pinlon">US Forest Service</a>).
 # </p>
 # 
 # <p>
-# The Bristlecone Pine is more prolific on south and west facing slopes but can also be found on other slope directions. It generally occurs on slopes ranging from 10 to 50 degrees (<a href="https://research.fs.usda.gov/feis/species-reviews/pinlon">USGS</a>).
+# The Bristlecone Pine is more prolific on south and west facing slopes but can also be found on other slope directions. It generally occurs on slopes ranging from 10 to 50 percent (<a href="https://research.fs.usda.gov/feis/species-reviews/pinlon">US Forest Service</a>).
 # </p>
 # 
 # </div>
@@ -33,7 +33,7 @@
 # 
 # <img src="https://www.nps.gov/grba/planyourvisit/images/Mt-Washingotn-Bristlecone2-GRBA.jpg?maxwidth=650&autorotate=false&quality=78&format=webp" width="80%">
 # 
-# <div style="font-size: 12px; color: gray;">NPS</div>
+# <div style="font-size: 12px; color: gray;">Photo: <a href="https://www.nps.gov/grba/planyourvisit/images/Mt-Washingotn-Bristlecone2-GRBA.jpg">National Park Service</a></div>
 # 
 # </div>
 # 
@@ -43,35 +43,39 @@
 # ### Habitat Suitability Criteria
 # 
 # - Soil pH: >7.0
-# - Elevation: 8,000 - 12,000 ft
-# - Aspect: South or west preferred (values range from 0.7 to 1.0)
-# - Slope: 10 - 50 degrees
-# - Precipitation: 30-70 cm per year
+# - Elevation: 8,000 - 12,500 ft (2,440 - 3,810 m)
+# - Aspect: South (180°) or west (270°) preferred (suitability weight ranges from 0.7 for other aspects to 1.0)
+# - Slope: 10 - 50 percent (about 6 - 27 degrees)
+# - Precipitation: 30-95 cm per year (12-37 inches)
 # - Max average annual temperature: 10.0 through 18.0 degrees C
-# - Min average annual temperature -4.0 through 4.0 degrees C
+# - Min average annual temperature: -7.8 through 4.0 degrees C
+# 
+# The soil, aspect, and slope criteria come directly from the sources below. The precipitation range runs from the driest reported sites (about 12 inches, or 30 cm, per year in the White Mountains; [US Forest Service](https://research.fs.usda.gov/feis/species-reviews/pinlon)) to the wettest (up to 37 inches, or 94 cm, per year on bristlecone pine sites in central Nevada; [Natural Resources Conservation Service](https://edit.sc.egov.usda.gov/catalogs/esd/028B/F028BY106NV)). The temperature ranges are approximations built around the reported averages (an average maximum temperature near 60°F, or 16°C; and an average minimum temperature near 18°F, or -8°C), widened to allow for variation across the species' range.
 # 
 # **Sources for Habitat suitability:**   
-# National Park Service. Bristlecone Pines. https://www.nps.gov/grba/planyourvisit/identifying-bristlecone-pines.htm
+# National Park Service. Bristlecone Pines. https://www.nps.gov/grba/planyourvisit/identifying-bristlecone-pines.htm Accessed April 16, 2026.
 # 
-# United States Geological Survey. Pinus longaeva, Great Basin bristlecone pine. https://research.fs.usda.gov/feis/species-reviews/pinlon
+# Fryer, Janet L. 2004. Pinus longaeva, Great Basin bristlecone pine. In: Fire Effects Information System. US Department of Agriculture, Forest Service, Rocky Mountain Research Station. https://research.fs.usda.gov/feis/species-reviews/pinlon Accessed April 16, 2026.
 # 
-# Whitebark Pine Ecosystem Foundation. Great Basin bristlecone pine. https://whitebarkfound.org/five-needle-pines/great-basin-bristlecone-pine/
+# Natural Resources Conservation Service. Ecological site F028BY106NV (PILO-PIFL2/SYOR2/POA). Ecosystem Dynamics Interpretive Tool. https://edit.sc.egov.usda.gov/catalogs/esd/028B/F028BY106NV Accessed November 13, 2026.
+# 
+# Whitebark Pine Ecosystem Foundation. Great Basin bristlecone pine. https://whitebarkfound.org/five-needle-pines/great-basin-bristlecone-pine/ Accessed April 16, 2026.
 # 
 # 
 # ### Bristlecone Pines and Climate Change
-# Due to warming global temperatures, I'm interested in understanding if and how the range of the Great Basin Bristlecone Pine could be affected. This tree prefers high elevation climates, in part due to the lack of other nearby vegetation that is an increased wildfire risk. However, future changes in temperature and precipitation may also impact the ability of this species to survive in its current habitats. Therefore, I will create a habitat suitability map using an assortment of data to predict the Bristlecon Pines future habitat suitability range for two sites in Nevada. 
+# Due to warming global temperatures, I'm interested in understanding if and how the range of the Great Basin Bristlecone Pine could be affected. This tree thrives at high elevations where little other vegetation grows, which limits the fuel available for wildfires ([National Park Service](https://www.nps.gov/grba/planyourvisit/identifying-bristlecone-pines.htm)). However, future changes in temperature and precipitation may also impact the ability of this species to survive in its current habitats. Therefore, I will create a habitat suitability map using an assortment of data to predict the Bristlecone Pine's future habitat suitability range for two sites in Nevada. 
 # 
 # ### Study Sites
-# For this study, I will select two sites where Great Basin Bristlecone Pines are common. The first site is [Great Basin National Park](https://www.nps.gov/grba/index.htm) in the Northeastern part of Nevada. The other site is a portion of [Humboldt-Toiyabe National Forest](https://www.nationalforests.org/forest/humboldt-toiyabe-national-forest/) just west of Las Vegas. This will allow for comparison of how habitat suitability is changing in the northern and southern parts of the state for this species. 
+# For this study, I will select two sites where Great Basin Bristlecone Pines are common. The first site is [Great Basin National Park](https://www.nps.gov/grba/index.htm) in east-central Nevada, near the Utah border. The other site is a portion of [Humboldt-Toiyabe National Forest](https://www.fs.usda.gov/r04/humboldt-toiyabe) in the Spring Mountains, just west of Las Vegas. This will allow for comparison of how habitat suitability is changing in the northern and southern parts of the state for this species. 
 # 
 # ### Data
 # 
-# - Species Occurrence data. [Global Biodiversity Information Facility](gbif.org).
+# - Species Occurrence data. [Global Biodiversity Information Facility](https://www.gbif.org).
 # - Boundary data for Great Basin National Park (GBNP) and Humboldt-Toiyabe National Forest (HTNF). [US Geological Survey's Protected Area Database](https://www.usgs.gov/programs/gap-analysis-project/science/pad-us-data-overview).
 # - Soil data. [USGS POLARIS Data](https://www.usgs.gov/publications/polaris-properties-30-meter-probabilistic-maps-soil-properties-over-contiguous-united).
 # - Topography Data. [USGS Shuttle Radar Topography Mission (SRTM)](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-1).
 # - Climate Model Data. [Multivariate Adaptive Constructed Analogs (MACA) Datasets](https://climate.northwestknowledge.net/MACA/index.php).
-# - Choosing climate Models. [ClimateToolBox.org](https://climatetoolbox.org/)
+# - Choosing climate models. [ClimateToolBox.org](https://climatetoolbox.org/)
 # 
 # 
 
@@ -142,6 +146,10 @@ data_dir = os.path.join(
 )
 
 os.makedirs(data_dir, exist_ok=True)
+
+### folder (inside this repository) for figures used in the blog post
+figures_dir = Path("figures")
+figures_dir.mkdir(exist_ok=True)
 
 # %% [markdown]
 # ### Prepare to download Bristlecone pine occurrence data from GBIF
@@ -390,7 +398,7 @@ htnf_gdf.hvplot(
 )
 
 # %% [markdown]
-# This national forest covers, a lot of different areas. I'm interested picking a smaller area of similar size to Great Basin National Park for comparison. Since this is a climate related analysis, I'm particularly interested in the site farthest south (near Los Vegas), and compare to the northern site (Great Basin National Park).
+# This national forest covers a lot of different areas. I'm interested in picking a smaller area of similar size to Great Basin National Park for comparison. Since this is a climate related analysis, I'm particularly interested in the site farthest south (near Las Vegas), and comparing it to the northern site (Great Basin National Park).
 
 # %%
 ### right now it's a multipolygon, so we need to separate it to select individual polygons
@@ -480,6 +488,55 @@ gbif_plot = gbif_in_sites.hvplot(
 )
 
 (sites_plot * gbif_plot).opts(title="GBIF Observations Within GBNP and HTNF")
+
+# %%
+### static map of the study sites and GBIF occurrences (saved for the blog post)
+
+### state outlines come with the PAD-US download
+states_gdf = gpd.read_file(extract_folder / "tl_2022_us_state.shp").to_crs(epsg=4326)
+states_gdf = states_gdf[states_gdf["STUSPS"].isin(["NV", "CA", "UT"])]
+
+fig, ax = plt.subplots(figsize=(8, 7))
+
+states_gdf.plot(ax=ax, color="whitesmoke", edgecolor="gray", linewidth=0.8)
+
+gbif_gdf.plot(
+    ax=ax,
+    color="darkgreen",
+    markersize=4,
+    alpha=0.4,
+    label="Great Basin Bristlecone Pine occurrences (GBIF)"
+)
+
+gbnp_gdf.plot(ax=ax, color="tab:orange", edgecolor="black", linewidth=0.5)
+htnf_south_gdf.plot(ax=ax, color="tab:purple", edgecolor="black", linewidth=0.5)
+
+### label the two study sites
+ax.annotate(
+    "Great Basin\nNational Park",
+    xy=(-114.25, 38.95), xytext=(-112.9, 39.9),
+    arrowprops=dict(arrowstyle="-", color="black"), fontsize=10
+)
+ax.annotate(
+    "Humboldt-Toiyabe\nNational Forest\n(Spring Mountains)",
+    xy=(-115.7, 36.25), xytext=(-114.6, 35.0),
+    arrowprops=dict(arrowstyle="-", color="black"), fontsize=10
+)
+
+### label the states
+for state_name, (x, y) in {"Nevada": (-117.0, 40.3), "California": (-120.6, 36.8), "Utah": (-111.6, 38.2)}.items():
+    ax.text(x, y, state_name, fontsize=11, color="gray", ha="center")
+
+ax.set_xlim(-122, -108.8)
+ax.set_ylim(34.3, 42.3)
+ax.set_xlabel("Longitude")
+ax.set_ylabel("Latitude")
+ax.set_title("Study Sites and Great Basin Bristlecone Pine Occurrences")
+ax.legend(loc="upper right")
+
+plt.tight_layout()
+fig.savefig(figures_dir / "study_sites.png", dpi=150, bbox_inches="tight")
+plt.show()
 
 # %%
 ### get a count of the number of occurrences in each site
@@ -790,7 +847,7 @@ for dataset in datasets:
     print(dataset['umm']['ShortName'], dataset['umm']['EntryTitle'])
 
 # %% [markdown]
-# We are interested in SRTMGL1 NASA Shuttle Radar Topography Mission Global 1 arc second V003.
+# We are interested in SRTMGL3 NASA Shuttle Radar Topography Mission Global 3 arc second V003 (about 90 m resolution).
 
 # %%
 ### create a function to download SRTM data
@@ -1119,26 +1176,26 @@ htnf_slope = plot_slope(
 # 
 # - Warm and Dry
 # - Warm and Wet
-# - Cold and Dry
-# - Cold and Wet
+# - Cooler and Dry
+# - Cooler and Wet
 # 
-# For each site location, I used the scattor plot feature on [ClimateToolBox.org](https://climatetoolbox.org/) to identify an appropriate model for each of the above categories. Below are the models I chose, and will be using. 
+# For each site location, I used the scatter plot feature on [ClimateToolBox.org](https://climatetoolbox.org/) to identify an appropriate model for each of the above categories. Below are the models I chose, and will be using. Note that all of these models project warming under RCP 4.5, so "Warm" and "Cooler" describe each model relative to the other models (more or less warming), not relative to today's climate. 
 # 
 # ### Climate Models for each site (GBNP and HTNF)
 # Criteria:   
-# Lower Emission (RCP 4.5)
+# Lower Emission (RCP 4.5) ([NOAA Science On a Sphere](https://sos.noaa.gov/catalog/datasets/climate-model-temperature-change-rcp-45-2006-2100/))
 # 
 # #### GBNP:
 # - Warm and Dry: MIROC-ESM
 # - Warm and Wet: HadGEM2-ES365
-# - Cold and Dry: inmcm4
-# - Cold and Wet: CNRM-CM5
+# - Cooler and Dry: inmcm4
+# - Cooler and Wet: CNRM-CM5
 # 
 # #### HTNF
 # - Warm and Dry: MIROC-ESM
 # - Warm and Wet: CanESM2
-# - Cold and Dry: GFDL-ESM2M
-# - Cold and Wet: CNRM-CM5
+# - Cooler and Dry: GFDL-ESM2M
+# - Cooler and Wet: CNRM-CM5
 # 
 
 # %%
@@ -1814,6 +1871,11 @@ def load_and_harmonize_climate_nc(
 
     if variable == "pr":
         da = ds["precipitation"]
+
+        # MACA precipitation is the monthly total in mm, so convert the
+        # mean monthly value to an annual total in cm (x 12 months / 10)
+        da = da * 12 / 10
+        da.attrs["units"] = "cm/yr"
     else:
         da = ds["air_temperature"]
 
@@ -2177,12 +2239,12 @@ validate_site_layers(
 # ### Habitat Suitability Criteria (inputs for the model)
 # 
 # - Soil pH: >7.0
-# - Elevation: 8,000 - 12,000 ft
-# - Aspect: South or west preferred (values range from 0.7 to 1.0)
-# - Slope: 10 - 50 degrees
-# - Precipitation: 30-70 cm per year
+# - Elevation: 8,000 - 12,500 ft (2,440 - 3,810 m)
+# - Aspect: South (180°) or west (270°) preferred (suitability weight ranges from 0.7 for other aspects to 1.0)
+# - Slope: 10 - 50 percent (about 6 - 27 degrees)
+# - Precipitation: 30-95 cm per year (12-37 inches)
 # - Max average annual temperature: 10.0 through 18.0 degrees C
-# - Min average annual temperature -4.0 through 4.0 degrees C
+# - Min average annual temperature: -7.8 through 4.0 degrees C
 
 # %%
 def fuzzy_between(da, low_opt, high_opt, low_tol, high_tol):
@@ -2349,12 +2411,15 @@ def run_fuzzy_model(
     )
 
     # Define habitat criteria for slope
+    # the slope raster is in degrees, so convert to percent slope first
+    slope_pct = np.tan(np.deg2rad(slope)) * 100
+
     slope_fuzzy = fuzzy_between(
-        slope,
+        slope_pct,
         low_opt=10,
         high_opt=50,
         low_tol=10,
-        high_tol=10
+        high_tol=25
     )
 
     # Define habitat criteria for soil pH
@@ -2373,11 +2438,11 @@ def run_fuzzy_model(
     )
 
     # Define habitat criteria for precipitation
-    # climate rasters are 30-year mean monthly values
+    # precipitation is the 30-year mean annual total in cm
     pr_fuzzy = fuzzy_between(
         pr,
         low_opt=30,
-        high_opt=70,
+        high_opt=95,
         low_tol=15,
         high_tol=15
     )
@@ -2395,7 +2460,7 @@ def run_fuzzy_model(
     # Define habitat criteria for min temperature
     tasmin_fuzzy = fuzzy_between(
         tasmin,
-        low_opt=-4.0,
+        low_opt=-7.8,
         high_opt=4,
         low_tol=15,
         high_tol=15
@@ -2522,6 +2587,9 @@ for ax, da, title in zip(axes, layers_to_plot, titles):
     ax.set_axis_off()
 
 plt.tight_layout()
+
+# save the figure for the blog post
+fig.savefig(figures_dir / "gbnp_fuzzy_layers.png", dpi=150, bbox_inches="tight")
 plt.show()
 
 # %% [markdown]
@@ -2761,12 +2829,15 @@ def plot_site_suitability_grid(results, site_name, boundary_gdf, gbif_gdf=None):
 
             da = match[0]["suitability"]
 
+            # only show the colorbar on the last column, with a clear label
+            show_cbar = (j == len(periods) - 1)
             da.plot(
                 ax=ax,
                 cmap="YlGn",
                 vmin=0,
                 vmax=1,
-                add_colorbar=(j == len(periods) - 1)
+                add_colorbar=show_cbar,
+                **({"cbar_kwargs": {"label": "Habitat suitability"}} if show_cbar else {})
             )
 
             boundary_gdf.to_crs(da.rio.crs).boundary.plot(
@@ -2788,6 +2859,13 @@ def plot_site_suitability_grid(results, site_name, boundary_gdf, gbif_gdf=None):
 
     plt.suptitle(f"{site_name} Habitat Suitability", y=1.02, fontsize=14)
     plt.tight_layout()
+
+    # save the figure for the blog post
+    fig.savefig(
+        figures_dir / f"{site_name.lower()}_habitat_suitability.png",
+        dpi=150,
+        bbox_inches="tight"
+    )
     plt.show()
 
 # %% [markdown]
@@ -2810,58 +2888,74 @@ plot_site_suitability_grid(
 
 # %% [markdown]
 # Early Century = 2006-2035   
-# Late Century = 2071-2099
+# Late Century = 2071-2099 (29 years, because the MACA data ends in 2099)
 # 
 # #### Model types for GBNP:
 # - Warm and Dry: MIROC-ESM
 # - Warm and Wet: HadGEM2-ES365
-# - Cold and Dry: inmcm4
-# - Cold and Wet: CNRM-CM5
+# - Cooler and Dry: inmcm4
+# - Cooler and Wet: CNRM-CM5
 # 
 
 # %% [markdown]
 # Early Century = 2006-2035   
-# Late Century = 2071-2099
+# Late Century = 2071-2099 (29 years, because the MACA data ends in 2099)
 # 
 # #### Model types for HTNF
 # - Warm and Dry: MIROC-ESM
 # - Warm and Wet: CanESM2
-# - Cold and Dry: GFDL-ESM2M
-# - Cold and Wet: CNRM-CM5
+# - Cooler and Dry: GFDL-ESM2M
+# - Cooler and Wet: CNRM-CM5
 
 # %% [markdown]
 # ### Results
-# The above maps show habitat suitability for all four climate models for both early and late century time periods (2006-2035), and (2071-2099), using the green colorbar. The colorbar ranges from 0 to 1, where 0 indicates habitat areas that are completely non-compatible with the Great Basin Bristlecone Pine, and 1 represents habitat areas that are completely ideal for the species. Additionally, I have plotted the GBIF occurrence data for the bristlecone pine on top of the habitat suitability maps to get a better sense of where the species lives, and how it might be affected in the future by climate change. 
+# The above maps show habitat suitability for all four climate models for both the early and late century time periods (2006-2035 and 2071-2099), using the green colorbar. The colorbar ranges from 0 to 1, where 0 indicates habitat areas that are completely non-compatible with the Great Basin Bristlecone Pine, and 1 represents habitat areas that are completely ideal for the species. Additionally, I have plotted the GBIF occurrence data for the bristlecone pine on top of the habitat suitability maps to get a better sense of where the species lives, and how it might be affected in the future by climate change. 
 
 # %% [markdown]
 # ### Discussion
 # 
-# The early century habitat suitability maps (left side), all indicate a strong level of habitat suitability (>0.5) for the areas that overlap with the majority of occurrence data points for the species. This is expected for the early century, since Great Basin bristlecone pines are known to be very tolerant of harsh climate conditions ([Whitebark Pine Ecosystem Foundation](https://whitebarkfound.org/five-needle-pines/great-basin-bristlecone-pine/
+# The early century habitat suitability maps (left side) all indicate a strong level of habitat suitability (>0.5) for the areas that overlap with the majority of occurrence data points for the species. This is expected for the early century, since Great Basin bristlecone pines are known to be very tolerant of harsh climate conditions ([Whitebark Pine Ecosystem Foundation](https://whitebarkfound.org/five-needle-pines/great-basin-bristlecone-pine/
 # )), and the values for early century temperature and precipitation are consistent with the species' habitat requirements. 
 # 
-# The late century habitat suitability maps (right side) also indicate a strong level of habitat suitability for the areas overlapping with the species occurrence data points. However, the perimeter of suitable habitats is slightly decreased on some of the climate models, in particular, the MIROC-ESM maps for both sites. The MIROC-ESM is climate model pridicting a warmer and drier climate compared to the other models, so this makes sense that this would predict a slightly reduced habitat range in the future. Overall, the fact that habitat suitability is not greatly affected for the bristlecone pine is good news for this species. This is assuming that carbon emissions follow a trajectory similar to the RCP 4.5 emissions scenario. However, an RCP 8.5 or "business as usual" scenario ([CarbonBrief](https://www.carbonbrief.org/explainer-the-high-emissions-rcp8-5-global-warming-scenario/)), would likely impact habitat suitability more drastically. This analysis could easily be adapted to include RCP 8.5 climate model data. 
+# The late century habitat suitability maps (right side) also indicate a strong level of habitat suitability for the areas overlapping with the species occurrence data points. However, the perimeter of suitable habitats is slightly decreased on some of the climate models, in particular, the MIROC-ESM maps for both sites. MIROC-ESM is a climate model predicting a warmer and drier climate compared to the other models, so it makes sense that it would predict a slightly reduced habitat range in the future. Overall, the fact that habitat suitability is not greatly affected for the bristlecone pine is good news for this species. This is assuming that carbon emissions follow a trajectory similar to the RCP 4.5 emissions scenario. However, an RCP 8.5 or "business as usual" scenario ([CarbonBrief](https://www.carbonbrief.org/explainer-the-high-emissions-rcp8-5-global-warming-scenario/)), would likely impact habitat suitability more drastically. This analysis could easily be adapted to include RCP 8.5 climate model data. 
 # 
-# Great Basin National Park is the northern site for this study. It has a larger buffer of suitable habitat surrounding occurrence data when compared to the Humboldt-Toiyabe National Forest site in southern Nevada. This appears to be largely due to the elevation requirements of the species, and shows that Great Basin National Park has a larger area above 8,000 ft that is suitable for the species. 
+# Great Basin National Park is the northern site for this study. It has a larger buffer of suitable habitat surrounding occurrence data when compared to the Humboldt-Toiyabe National Forest site in southern Nevada. This appears to be largely due to the elevation requirements of the species. Roughly 80% of the Great Basin National Park site lies above 8,000 ft, compared to less than 20% of the Humboldt-Toiyabe site.
+# 
+# This analysis has some limitations. The habitat thresholds and tolerance ranges in the fuzzy logic model are approximations based on a small number of sources, and the results are sensitive to these choices. The temperature tolerances are wide (15°C on either side of the optimal range), so warming lowers suitability gradually but never rules out a location entirely. The MACA climate data has a resolution of about 4 km, which is much coarser than the 90 m elevation data, so it cannot capture small-scale climate differences in steep terrain. Finally, the model only considers whether conditions are suitable for the species in general, not whether new seedlings can establish. The US Forest Service notes that some Great Basin bristlecone pine populations on marginal sites in the interior Great Basin are already threatened by climate change, because conditions are no longer cool and moist enough for seedlings to establish ([US Forest Service](https://research.fs.usda.gov/feis/species-reviews/pinlon)). 
 
 # %% [markdown]
 # ### Conclusion
-# This workflow demonstrates how to create a habitat suitability map for a species, and allows for the comparison of different sites and climate models. Creating an accurate habitat suitability map requires several different data types, including data for elevation, slope, soil pH, precipitation, and temperature. Once all this data is downloaded, its very important that all the rasters are clipped and aligned to exactly the same sizes. I was able to create data harmonization functions that do this efficiently, using a reference raster, and matching all subsequent rasters to it. Finally, I used a fuzzy logic model to perform raster algebra, where cells are added, pixel by pixel to identify which pixels meet all the habitat suitability requirements. The results show that habitat suitability was identified for locations overlapping with where the species currently exists (GBIF). This is promising evidence that the habitat suitability model ran accurately. Additionally, the late century habitat suitability maps show a slight decrease in habitat range for the species, especially for the MIROC-ESM (warm and dry) climate model. However, the overall range of habitat suitability for the species remains intact through these late century predictions, assuming an RCP 4.5 emissions scenario. 
+# This workflow demonstrates how to create a habitat suitability map for a species, and allows for the comparison of different sites and climate models. Creating an accurate habitat suitability map requires several different data types, including data for elevation, slope, soil pH, precipitation, and temperature. Once all this data is downloaded, it's very important that all the rasters are clipped and aligned to exactly the same sizes. I was able to create data harmonization functions that do this efficiently, using a reference raster, and matching all subsequent rasters to it. Finally, I used a fuzzy logic model to perform raster algebra, where the layers are multiplied together, pixel by pixel, to identify how well each pixel meets all the habitat suitability requirements. The results show that habitat suitability was identified for locations overlapping with where the species currently exists (GBIF). This is promising evidence that the habitat suitability model ran accurately. Additionally, the late century habitat suitability maps show a slight decrease in habitat range for the species, especially for the MIROC-ESM (warm and dry) climate model. However, the overall range of habitat suitability for the species remains intact through these late century predictions, assuming an RCP 4.5 emissions scenario. 
 
 # %% [markdown]
 # ### Works Cited
 # 
-# Carbon Brief. The high-emissions ‘RCP8.5’ global warming scenario. https://www.carbonbrief.org/explainer-the-high-emissions-rcp8-5-global-warming-scenario/
+# Abatzoglou, J. T., and Brown, T. J. 2012. A comparison of statistical downscaling methods suited for wildfire applications. International Journal of Climatology, 32(5), 772-780. https://doi.org/10.1002/joc.2312
 # 
-# National Aeronautics and Space Administration. Climate Model: Temperature Change (RCP 4.5), 2006-2100. https://sos.noaa.gov/catalog/datasets/climate-model-temperature-change-rcp-45-2006-2100/
+# Carbon Brief. The high-emissions ‘RCP8.5’ global warming scenario. https://www.carbonbrief.org/explainer-the-high-emissions-rcp8-5-global-warming-scenario/ Accessed April 16, 2026.
 # 
-# National Park Service. Bristlecone Pines. https://www.nps.gov/grba/planyourvisit/identifying-bristlecone-pines.htm
+# Chaney, N. W., et al. 2019. POLARIS soil properties: 30-m probabilistic maps of soil properties over the contiguous United States. Water Resources Research, 55(4), 2916-2938. https://doi.org/10.1029/2018WR022797
 # 
-# National Park Service. Great Basin National Park. https://www.nps.gov/grba/index.htm 
+# Fryer, Janet L. 2004. Pinus longaeva, Great Basin bristlecone pine. In: Fire Effects Information System. US Department of Agriculture, Forest Service, Rocky Mountain Research Station. https://research.fs.usda.gov/feis/species-reviews/pinlon Accessed April 16, 2026.
 # 
-# United States Geological Survey. Pinus longaeva, Great Basin bristlecone pine. https://research.fs.usda.gov/feis/species-reviews/pinlon
+# GBIF.org (16 April 2026) GBIF Occurrence Download https://doi.org/10.15468/dl.znh3xc
 # 
-# US Forest Service. Humboldt-Toiyabe National Forest. https://www.fs.usda.gov/r04/humboldt-toiyabe
+# Hegewisch, K. C., and Abatzoglou, J. T. Future Climate Scatter web tool. Climate Toolbox. https://climatetoolbox.org/ Accessed April 16, 2026.
 # 
-# Whitebark Pine Ecosystem Foundation. Great Basin bristlecone pine. https://whitebarkfound.org/five-needle-pines/great-basin-bristlecone-pine/
+# NASA JPL. 2013. NASA Shuttle Radar Topography Mission Global 3 arc second [Data set]. NASA EOSDIS Land Processes DAAC. https://doi.org/10.5067/MEaSUREs/SRTM/SRTMGL3.003 Accessed April 16, 2026.
+# 
+# National Oceanic and Atmospheric Administration, Science On a Sphere. Climate Model: Temperature Change (RCP 4.5), 2006-2100. https://sos.noaa.gov/catalog/datasets/climate-model-temperature-change-rcp-45-2006-2100/ Accessed April 16, 2026.
+# 
+# National Park Service. Bristlecone Pines. https://www.nps.gov/grba/planyourvisit/identifying-bristlecone-pines.htm Accessed April 16, 2026.
+# 
+# National Park Service. Great Basin National Park. https://www.nps.gov/grba/index.htm Accessed April 16, 2026.
+# 
+# Natural Resources Conservation Service. Ecological site F028BY106NV (PILO-PIFL2/SYOR2/POA). Ecosystem Dynamics Interpretive Tool. https://edit.sc.egov.usda.gov/catalogs/esd/028B/F028BY106NV Accessed November 13, 2026.
+# 
+# US Forest Service. Humboldt-Toiyabe National Forest. https://www.fs.usda.gov/r04/humboldt-toiyabe Accessed April 16, 2026.
+# 
+# US Geological Survey Gap Analysis Project. Protected Areas Database of the United States (PAD-US) 4.1. https://www.usgs.gov/programs/gap-analysis-project/science/pad-us-data-overview Accessed April 16, 2026.
+# 
+# Whitebark Pine Ecosystem Foundation. Great Basin bristlecone pine. https://whitebarkfound.org/five-needle-pines/great-basin-bristlecone-pine/ Accessed April 16, 2026.
 
 
